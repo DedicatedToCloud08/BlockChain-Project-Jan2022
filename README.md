@@ -1,16 +1,16 @@
 # BlockChain-Project-Jan2022
 In this project, I have created a smart contract which is following the ERC20 standards. The smart contract is then invoked by a nodejs application to distribute tokens to 10 different wallet addresses.  
 
-# Step 1 - 
+# Step 1  
 Clone the repository: 
 
     git clone https://github.com/DedicatedToCloud08/BlockChain-Project-Jan2022.git
 
 
-# Step 2 -
+# Step 2 
 Rename the dotenv file to .env
 
-# Step 3 - 
+# Step 3  
 Installing the Dependences:
 
 Install NodeJS
@@ -33,7 +33,7 @@ Install dotenv
 
     npm install dotenv
 
-# Step 3 - 
+# Step 3  
 
 Execute the distribute.js file 
 
