@@ -13,6 +13,10 @@ Rename the dotenv file to .env
 # Step 3 - 
 Installing the Dependences:
 
+Install NodeJS
+
+    npm install nodejs
+
 Install web3 
 
     npm install web3
@@ -28,3 +32,9 @@ Install big-number
 Install dotenv
 
     npm install dotenv
+
+# Step 3 - 
+
+Execute the distribute.js file 
+
+    node distribute.js
