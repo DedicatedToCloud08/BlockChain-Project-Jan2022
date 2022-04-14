@@ -1,5 +1,5 @@
 # BlockChain-Project-Jan2022
-In this project, I have created a smart contract which is using
+In this project, I have created a smart contract which is following the ERC20 standards. The smart contract is then invoked by a nodejs application to distribute tokens to 10 different wallet addresses.  
 
 # Step 1 - 
 Clone the repository: 
