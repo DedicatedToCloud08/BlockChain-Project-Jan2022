@@ -13,14 +13,14 @@ Rename the dotenv file to .env
 # Step 3 - 
 Installing the Dependences:
 
-Install web3 -
+Install web3 
     npm install web3
     
-Install ethereumjs-tx - 
+Install ethereumjs-tx  
     npm install ethereumjs-tx
 
-Install big-number -
+Install big-number 
     npm install big-number
 
-Install dotenv - 
+Install dotenv 
     npm install dotenv
