@@ -1,5 +1,5 @@
 # BlockChain-Project-Jan2022
-x21127352 Blockchain Project
+In this project, I have created a smart contract which is using
 
 # Step 1 - 
 Clone the repository: 
