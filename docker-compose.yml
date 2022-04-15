@@ -1,0 +1,8 @@
+version: '3.7'
+services:
+  x21127352:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports: 
+      - 8090:8080
